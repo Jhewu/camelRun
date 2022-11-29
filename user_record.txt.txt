@@ -1,0 +1,9 @@
+hannah, 130, 5600
+harold,120,3185
+maddy,60,3510
+Mike_the_Mac00,440,45480
+pigmaster,40,17520
+tahsin,990,35460
+Waffles,820,36840
+Default User,1460,72410
+Jun Yi He Wu,190,54860
